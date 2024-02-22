@@ -1,4 +1,4 @@
-# DataScience-Syllabus
+# Data Science Syllabus
 
 ## `TimeLine`
 Module 1 – Foundations For Data Science
