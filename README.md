@@ -1,5 +1,6 @@
 # Machine Learning Syllabus
 
+
 ## `TimeLine`
 Module 1 – Introduction to Machine Learning
 <br>
